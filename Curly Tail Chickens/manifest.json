@@ -1,0 +1,11 @@
+{
+  "Name": "Curly Tail Chickens",
+  "Author": "colourpencilsgirl",
+  "Version": "1.0.0",
+  "Description": "Gives all the chickens curly tails.",
+  "UniqueID": "colourpencilsgirl.CurlyTailChickens",
+  "UpdateKeys": [ "Nexus:???" ],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "Format": "2.7.5",
+
+  "Changes": [
+
+    //give chickens curly tails
+    {
+      "Action": "Load",
+      "Target": "Animals/White Chicken",
+      "FromFile": "assets/white_curly_tail_chickens.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Animals/Brown Chicken",
+      "FromFile": "assets/brown_curly_tail_chickens.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Animals/Void Chicken",
+      "FromFile": "assets/void_curly_tail_chickens.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Animals/Golden Chicken",
+      "FromFile": "assets/gold_curly_tail_chickens.png"
+    }
+  ]
+}
